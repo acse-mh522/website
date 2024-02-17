@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: ADoPRI & Chair Professor of Photonic Instrumentation
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Professional Qualifications:
+  - Senior Member of the Institute of Electrical and Electronics Engineers
+  - Member of the International Society for Optical Engineering
+  - Fellow of The Optional Society of America
 
 # Education to show in About widget
 education:
