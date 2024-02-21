@@ -25,7 +25,7 @@ organizations:
     url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Professor Jin’s research interests include photonic crystal fiber devices, optical fiber sensors, fiber lasers and amplifiers, optical gas detectors, condition monitoring of electrical power transformer as well as civil and mechanical structures.
 
 # Interests to show in About widget
 Professional Qualifications:
@@ -120,5 +120,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professor Jin is a fellow of OSA, a senior member of IEEE and SPIE, a director of the Optical Society of China and a vice Chairman of the Fiber and Integrated Optics Specialty Committee of the Optical Society of China. He was the Co-Chair of the 25th International Conference on Optical Fiber Sensors and the Technical Chair of the 22nd International Conference on Optical Fiber Sensors.
+He edited 4 books/proceedings, authored/co-authored 8 book chapters, >280 Journal and 190 conference papers, and >10 patents in the area of fiber optic devices and sensors. He delivered >90 plenary/keynote/invited speeches at international/national conferences. His works were cited >6,995 times with h-index of 42 (SCIE), and >10,045 times with h-index of 51 and i10-index of 220. He secured research funds of over HK$50 million, has successfully supervised or co-supervised 30 PhD, and is currently supervising 7 Research Students.
 {style="text-align: justify;"}
